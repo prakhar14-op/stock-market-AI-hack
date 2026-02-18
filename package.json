@@ -1,0 +1,6 @@
+{
+    "name": "quantpulse-workspace",
+    "private": true,
+    "dev": "next dev",
+    "description": "QuantPulse Fintech Dashboard Workspace"
+}
